@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
+sentence-transformers>=2.6
+msgpack>=1.0
